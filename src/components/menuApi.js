@@ -73,8 +73,8 @@ const Menu = [{
     {
         id: 9,
         image: "images/ChikenMandi.jpg",
-        name: " Shaikh",
-        category: 'Shaikh',
+        name: "Chiken Handi",
+        category: 'New',
         price:450,
         description: "I Love  ChikenMandi Realy oo Yues Lorem ipsum dolor sitm,"
     },

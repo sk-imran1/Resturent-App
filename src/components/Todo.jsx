@@ -7,7 +7,7 @@ export const Todo = () => {
           <div className="child-div">
               <figure>
                   <img src="" alt="" />
-              <figcaption> Add Your List Here </figcaption>
+              <figcaption> Add Your List Here</figcaption>
               </figure>
               <div className="addItems">
                   <input type="text" placeholder='Add Item' className="text" />
